@@ -235,13 +235,13 @@ a.navbar-brand {
     padding-bottom: 150px;
 }
 
-.cardapio .background-cardapio {
+/* .cardapio .background-cardapio {
     position: absolute;
     left: 0;
     right: 0;
     height: 500px;
     background-image: url(../img/bg-icons-1.png);
-}
+} */
 
 .container-menu {
     margin-bottom: 40px;

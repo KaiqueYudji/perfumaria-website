@@ -88,59 +88,59 @@ var MENU = {
     "burgers": [
         {
             "id": "the-gramercy-tavern-burger-4-pack",
-            "img": "./img/cardapio/burguers/Gramercy-Tavern-Burger-and-Kielbasa-Kit-6.4.21-72ppi-1x1-15.jpg",
-            "name": "Gramercy Tavern",
-            "dsc": "The Gramercy Tavern Burger - 4 Pack",
+            "img": "./img/catalogo-perfumes/eudora-intense.jpg",
+            "name": "Intense eudora",
+            "dsc": "Perfume masculino eudora eua parfam",
             "price": 99
         },
         {
             "id": "shake-shack-shackburger-8-pack",
-            "img": "./img/cardapio/burguers/shake-shack-shackburger-8-pack.973a5e26836ea86d7e86a327becea2b0.jpg",
-            "name": "Shake Shack",
-            "dsc": "Shake Shack ShackBurger® - 8 Pack",
-            "price": 49
+            "img": "./img/catalogo-perfumes/imensi-eudora.jpg",
+            "name": "Imensi eudora",
+            "dsc": "Del colonia",
+            "price": 139.90
         },
         {
             "id": "gotts-cheeseburger-kit-for-4",
-            "img": "./img/cardapio/burguers/gotts-complete-cheeseburger-kit-for-4.7bdc74104b193427b3fe6eae39e05b5e.jpg",
-            "name": "Gott's Roadside",
-            "dsc": "Gott's Complete Cheeseburger Kit for 4",
-            "price": 99
+            "img": "./img/catalogo-perfumes/quasar.jpg",
+            "name": "Quasar",
+            "dsc": "Del colonia",
+            "price": 115.90
         },
         {
             "id": "le-big-matt-kit-for-6",
-            "img": "./img/cardapio/burguers/le-big-matt-kit-for-6.1ddae6e382bb3218eeb0fd5247de115a.jpg",
-            "name": "Emmy Squared",
-            "dsc": "Le Big Matt Burger Kit for 6",
-            "price": 99
+            "img": "./img/catalogo-perfumes/malbec.jpg",
+            "name": "Malbec",
+            "dsc": "EUA parfam",
+            "price": 189.90
         },
         {
             "id": "shake-shack-shackburger-16-pack",
-            "img": "./img/cardapio/burguers/shake-shack-shackburger-16-pack.316f8b09144db65931ea29e34869287a.jpg",
-            "name": "Shake Shack",
-            "dsc": "Shake Shack Shackburger® - 16 Pack",
-            "price": 89
+            "img": "./img/catalogo-perfumes/club6-eudora.jpg",
+            "name": "Club 6",
+            "dsc": "Del colonia",
+            "price": 99.99
         },
         {
             "id": "21-usda-prime-burgers-pack-of-18-8oz-each",
-            "img": "./img/cardapio/burguers/usda-prime-burgers-pack-of-18-8oz-each.274c67f15aa1c0b210dbf51801706670.jpg",
-            "name": "Peter Luger Steak House",
-            "dsc": "USDA Prime Burgers - Pack of 18 (8oz each)",
-            "price": 175.95
+            "img": "./img/catalogo-perfumes/kaiak.jpg",
+            "name": "KAIAK",
+            "dsc": "Del colonia",
+            "price": 110.00
         },
         {
             "id": "double-stack-burger-kit-for-4",
-            "img": "./img/cardapio/burguers/handf-double-stack-burger-kit-for-4.4ee9f54b1d6087e9996335f07c13e5cd.jpg",
-            "name": "Holeman & Finch",
-            "dsc": "Double Stack Burger Kit for 4",
-            "price": 79
+            "img": "./img/catalogo-perfumes/impression.jpg",
+            "name": "Impression",
+            "dsc": "EUA parfam",
+            "price": 179.99
         },
         {
             "id": "goldbelly-burger-bash-pack",
-            "img": "./img/cardapio/burguers/the-burger-bash-package.bd9d12d031865940bbe5faf15f1a62f8.jpg",
-            "name": "Pat LaFrieda Meats",
-            "dsc": "Goldbelly \"Burger Bash\" Pack",
-            "price": 109
+            "img": "./img/catalogo-perfumes/diva.jpg",
+            "name": "Diva",
+            "dsc": "Del colonia",
+            "price": 145.90
         },
         {
             "id": "burger-au-poivre-kit-4-pack",
