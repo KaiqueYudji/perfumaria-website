@@ -9,13 +9,13 @@
 }
 
 :root {
-    --color-background: #d08fe918;
+    --color-background: #6e896323;
     --color-black: #212121; 
     --color-black-heavy: #000000;
     --color-text: #4f4f4f;
     --color-text-out: #90908e;
-    --color-primary: #b700ffa9;
-    --color-secondary: #bd42ee65;
+    --color-primary: #6E8963;
+    --color-secondary: #6e89637a;
     --color-white: #ffffff;
     --color-red: #e74c3c;
     --color-green: #2ecc71;
@@ -153,9 +153,10 @@ a.navbar-brand {
 
 .img-banner img {
     position: absolute;
-    width: 340px;
+    width: 400px;
     top: 30px;
     right: 15px;
+    border-radius: 10px;
 }
 
 .card {
@@ -457,6 +458,7 @@ footer {
 
 .logo-footer {
     width: 150px;
+    height: auto
 }
 
 .container-logo-footer, .container-texto-footer, .container-redes-footer {
